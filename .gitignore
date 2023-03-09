@@ -1,0 +1,8 @@
+.gdb_history
+.vs/
+.vscode/
+**/.DS_Store
+build/windows/*
+!build/windows/GFX.sln
+!build/windows/GFX.vcxproj
+!build/windows/GFX.vcxproj.filters
