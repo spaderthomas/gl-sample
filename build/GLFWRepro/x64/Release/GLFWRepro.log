@@ -1,6 +1,0 @@
-﻿  glad.c
-  main.cpp
-  Generating code
-  Incremental LTCG not compatible with Address Sanitizer, build without incremental LTCG.
-  Finished generating code
-  GLFWRepro.vcxproj -> C:\Users\spader\source\gl-sample\build\GLFWRepro\x64\Release\GLFWRepro.exe
