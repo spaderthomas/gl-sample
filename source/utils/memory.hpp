@@ -1,7 +1,7 @@
 typedef const char* tstring;
 
 struct TemporaryStorage {
-	static constexpr int32 SIZE = 200 * 1024 * 1024;
+	static constexpr int32 SIZE = 1024;
 	
 	Array<char> memory_block;
 
