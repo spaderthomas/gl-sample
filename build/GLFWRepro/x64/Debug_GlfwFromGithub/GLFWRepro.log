@@ -1,0 +1,4 @@
+﻿  glad.c
+  main.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GLFWRepro.vcxproj -> C:\Users\spader\source\gl-sample\build\GLFWRepro\x64\Debug_GlfwFromGithub\GLFWRepro.exe
